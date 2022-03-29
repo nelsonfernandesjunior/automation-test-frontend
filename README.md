@@ -1,2 +1,2 @@
 # automation-test-frontend
-Front end automation test in Java 
+Front end automation test in Ruby 
